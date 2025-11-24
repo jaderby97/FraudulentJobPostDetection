@@ -34,5 +34,5 @@ Key steps included:
 
 ## Repository Structure
 - `Fraudulent Job Post Detection.ipynb` – main analysis notebook  
-- `fake_jobs_data` – link to dataset
+- `fake_job_dataset` – link to dataset
 - `README.md` – project overview and documentation
